@@ -12,7 +12,6 @@ public class Test : MonoBehaviour
 		    int j = i;
 		    actions[i] = () => Debug.Log(j);
 		}
-        
 	}
 
     void Update()
